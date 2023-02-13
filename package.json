@@ -1,0 +1,9 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@nintex/form-plugin-contract": "^1.0.0-beta.2",
+    "lit": "^2.6.1"
+  }
+}
